@@ -1,5 +1,5 @@
-class User
-{
-    int ID;
-    string Name;
+class User {
+	int ID;
+	string Name;
+	string SDT;
 }
